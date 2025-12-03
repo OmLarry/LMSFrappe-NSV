@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center" markdown="1">
 
 <img src=".github/lms-logo.png" alt="Frappe Learning logo" width="80" height="80"/>
@@ -176,3 +177,6 @@ To setup the repository locally follow the steps mentioned below:
 		</picture>
 	</a>
 </div>
+=======
+# LMSFrappe-NSV
+>>>>>>> origin/main
